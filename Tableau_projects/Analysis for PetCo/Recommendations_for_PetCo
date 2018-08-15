@@ -1,0 +1,32 @@
+Recommendation 1: My first recommendation to PetCo comes from analyzing how the successful
+test takers are distributed across the world. This graph shows where all the test takers who have
+completed the tests , come from and clearly most of them are concenterated in the United States. This
+led me to group all the countries other than United States and compare their numbers to the U.S and
+we still see that United states outperforms all the rest of the countires and hence, I wanted to deep dive
+into the numbers for United States by State. From the map, we clearly see that some states like CA, NC,
+TX, NY have the highest numbers. Knowing this distribution by states presents two opportunities:
+1. PetCo can analyze what they are doing different in these high performing vs low performing
+states.
+
+2. PetCo now knows where to expand their marketing efforts
+
+Recommendation 2: My next piece of analysis was to validate the usual perception that offering tests
+for free will entice the test takers to complete more tests. So I plotted the tests completion percentage
+in the two groups ie ; the free -users and the non- free users group. I only focused on the first 4 tests for
+comparison because the free-users group is offered only the 4 test for free. We see that even though
+the tests number 2, 3 and 4 were offered for free, only 87% of the test takers completed test #2 where
+as 95% of the people who were not offered free tests completed the tests. So, this clearly shows that
+offering tests for free doesn’t encourage the users to finish the tests, instead, if you look at test
+completion percentage for those who are subscribed vs those who are not, we see that a greater
+percentage of subscribed users finish the tests. So, my second recommendation is to stop offering free
+tests and instead, offer discounts on subscriptions that PetCo offers.
+
+Recommendation 3: And to do that, PetCo needs to know what is a good day/time to reach out to
+its customers with those promotional emails offering discounts. This graph shows that most of the users
+enter their dog’s test results on Sunday and we also see that there is clearly a favorite time for when the
+users are most active , which is 7 pm.
+
+So summing up, PetCo needs to target users in states where the participation is the lowest by
+offering discounts on subscriptions which have proved to show better completion rates than free tests
+and send those promotional emails on the specific day and time, when the users are most active and
+have a greater chance to take advantage of those discounts.
