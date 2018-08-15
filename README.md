@@ -1,1 +1,1 @@
-# Visualization_projects
+This repository consists of best practices for building dashboards/reports and also sample analysis and visuals I built as part of my course work and experiential learning, using various BI tools like Tableau.
