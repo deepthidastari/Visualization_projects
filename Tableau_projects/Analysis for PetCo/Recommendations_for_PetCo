@@ -6,7 +6,10 @@ we still see that United states outperforms all the rest of the countires and he
 into the numbers for United States by State. From the map, we clearly see that some states like CA, NC,
 TX, NY have the highest numbers. Knowing this distribution by states presents two opportunities:
 1. PetCo can analyze what they are doing different in these high performing vs low performing
-states.
+states. 
+
+Check the visual here: https://github.com/deepthidastari/Visualization_projects/blob/master/Tableau_projects/Analysis%20for%20PetCo/PetCo_recommendation_visual_1.JPG
+
 
 2. PetCo now knows where to expand their marketing efforts
 
@@ -20,6 +23,8 @@ offering tests for free doesn’t encourage the users to finish the tests, inste
 completion percentage for those who are subscribed vs those who are not, we see that a greater
 percentage of subscribed users finish the tests. So, my second recommendation is to stop offering free
 tests and instead, offer discounts on subscriptions that PetCo offers.
+
+
 
 Recommendation 3: And to do that, PetCo needs to know what is a good day/time to reach out to
 its customers with those promotional emails offering discounts. This graph shows that most of the users
