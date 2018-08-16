@@ -8,7 +8,7 @@ TX, NY have the highest numbers. Knowing this distribution by states presents tw
 1. PetCo can analyze what they are doing different in these high performing vs low performing
 states. 
 
-Check the visual here: https://github.com/deepthidastari/Visualization_projects/blob/master/Tableau_projects/Analysis%20for%20PetCo/PetCo_recommendation_visual_1.JPG
+Visual for Recommendation1 -- https://github.com/deepthidastari/Visualization_projects/blob/master/Tableau_projects/Analysis%20for%20PetCo/PetCo_recommendation_visual_1.JPG
 
 
 2. PetCo now knows where to expand their marketing efforts
@@ -24,12 +24,15 @@ completion percentage for those who are subscribed vs those who are not, we see 
 percentage of subscribed users finish the tests. So, my second recommendation is to stop offering free
 tests and instead, offer discounts on subscriptions that PetCo offers.
 
+Visual for Recommendation2 -- https://github.com/deepthidastari/Visualization_projects/blob/master/Tableau_projects/Analysis%20for%20PetCo/PetCo_recommendation_visual_2.JPG
 
 
 Recommendation 3: And to do that, PetCo needs to know what is a good day/time to reach out to
 its customers with those promotional emails offering discounts. This graph shows that most of the users
 enter their dog’s test results on Sunday and we also see that there is clearly a favorite time for when the
 users are most active , which is 7 pm.
+
+Visual for Recommendation3 -- https://github.com/deepthidastari/Visualization_projects/blob/master/Tableau_projects/Analysis%20for%20PetCo/PetCo_recommendation_visual_3.JPG
 
 So summing up, PetCo needs to target users in states where the participation is the lowest by
 offering discounts on subscriptions which have proved to show better completion rates than free tests
